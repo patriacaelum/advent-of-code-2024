@@ -1,4 +1,3 @@
-// Solution: 2 815 556
 package main
 
 import (
